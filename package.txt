@@ -1,0 +1,5 @@
+NAME=hdparm
+VERSION=9.52
+REVISION=1
+SRC=https://downloads.sourceforge.net/hdparm/hdparm-9.52.tar.gz
+SRCMD5=410539d0bf3cc247181594581edbfb53
